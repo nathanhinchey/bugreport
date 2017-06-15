@@ -1,0 +1,7 @@
+.class-name {
+  background: purple;
+
+  @media(min-width: 600px){
+    background: green;
+  }
+}
